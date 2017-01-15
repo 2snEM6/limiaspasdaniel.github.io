@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Welcome :)"
+subtitle: "Feel home!"
+date:   2016-01-15 17:06:01
+categories: [design, tool]
+---
+
+Hi! As you've probably seen, I'm starting a blog. I hope you find it interesting and feel free to share your thoughts.
+
+Happy coding!

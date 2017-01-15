@@ -1,12 +1,14 @@
 ---
 layout: page
 title: About
-subtitle: Just who the hell you think I am?
+subtitle: Hey! This is Daniel
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+I am **Software Enginner** with a strong passion for programming and 3D modeling & rendering.
+Currently working as a **backend** Software Engineer in Barcelona.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
-
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+[My GitHub](http://github.com/limiaspasdaniel)
+{: style="text-align: center;"}
+[My portfolio](https://www.artstation.com/artist/daniellimia)
+{: style="text-align: center;"}
